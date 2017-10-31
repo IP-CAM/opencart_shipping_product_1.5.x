@@ -7,9 +7,16 @@ Versão do plugin: 1.0.0
 
 Compatibilidade com OpenCart: **1.5x**
 
-----------
+-------------
 
-###Requisito "vQmod"
+### IMPORTANTE
+A Frete Rápido não mantem e/ou oferece suporte para a integração com o **OpenCart**, apenas disponibilizamos um módulo de integração padrão que atente a maioria dos e-commerces que utilizam esta plataforma.
+
+Para qualquer modificação no módulo baseada no modelo de negócio do seu e-commerce, nós disponibilizamos aqui o código fonte do módulo integrado a [API do Frete Rápido][9] e aqui [neste link][8] você encontra a documentação de integrações e modificações do **OpenCart**.
+
+--------------
+
+### Requisito "vQmod"
 
 >**Obs:** Caso você já tenha instalado o [Módulo Frete Rápido para OpenCart 1.5x][1], não precisa instalar o vQmod.
 
@@ -58,3 +65,5 @@ Powered by
 [5]: https://github.com/freterapido/opencart_shipping_product_1.5.x/blob/master/LICENSE
 [6]: https://github.com/willianbriotto/opencart_extensions
 [7]: https://github.com/willianbriotto
+[8]: http://docs.opencart.com/developer/module/
+[9]: https://www.freterapido.com/dev/
